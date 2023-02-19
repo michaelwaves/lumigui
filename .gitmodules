@@ -1,0 +1,3 @@
+[submodule "lumigui-react"]
+	path = lumigui-react
+	url = https://github.com/michaelwaves/lumigui-react
